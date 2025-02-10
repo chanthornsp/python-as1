@@ -1,5 +1,5 @@
 # https://patorjk.com/software/taag
-# # Raw string
+#
 logo = r"""
 ________   _______ _   _ _____ _   _ 
 | ___ \ \ / /_   _| | | |  _  | \ | |
